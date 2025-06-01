@@ -1,6 +1,8 @@
 node_modules
 .env
 
+
+#test
 # Hardhat files
 /cache
 /artifacts
@@ -17,3 +19,4 @@ node_modules
 ignition/deployments/chain-31337
 
 .openzeppelin
+
